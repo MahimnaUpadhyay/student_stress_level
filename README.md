@@ -32,6 +32,3 @@ A simple yet powerful web app that predicts whether a student is stressed or not
 git clone https://github.com/MahimnaUpadhyay/student_stress_level.git
 cd student_stress_level
 ```
-
-git clone https://github.com/MahimnaUpadhyay/student_stress_level.git
-cd student_stress_level
